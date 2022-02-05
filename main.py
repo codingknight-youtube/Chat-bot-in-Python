@@ -1,6 +1,6 @@
 import random
 
-hellow = ["hi","is anyone there?", "hello", "good day","hello there"]
+hellow = ["hi","is anyone there?", "hello", "good day","hello there","Would you sing a song for me"]
 bye = ["cya", "see you later","bye" ,"goodbye", "i am Leaving", "have a Good day"]
 howare = ["how are you","whats up","how you doing"]
 name = ["whats your name","what is your name","do you have any name","what should i call you","name"]
